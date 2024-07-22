@@ -1,1 +1,1 @@
-# Tugas-Akhir-JQuery
+# Jadwal Sholat Menggunakan JavaScript dan jQuery
